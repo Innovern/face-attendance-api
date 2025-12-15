@@ -1,8 +1,0 @@
-flask
-face_recognition
-opencv-python-headless
-numpy
-pillow
-requests
-gspread
-oauth2client
